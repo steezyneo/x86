@@ -1,0 +1,12 @@
+*.obj
+*.exe
+add.asm
+sub.asm
+mul.asm
+div.asm
+addition.asm
+subtraction.asm
+multiplication.asm
+division.asm
+edit.com
+edit.ini
